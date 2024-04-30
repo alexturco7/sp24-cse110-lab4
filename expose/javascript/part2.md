@@ -12,14 +12,14 @@
 10. It will print 3. Length is declared as a const outside of the loop, which means it can be used anywhere after its declaration. The length of the array is printed.
 11. The function will return [50, 100, 150]. The function takes the original array, and calculates the disounted prices based off the discount, and returns the discounted prices. The array is declared as const, which means you cannot assign it with new data. However, you can use push to manipulate the data, meaning the function will still work.
 
-12. 
+12. \
   a. student.name \
   b. student['Grad Year'] \
   c. student.greeting() \
   d. student['Favorite Teacher'].name \
   e. student.courseLoad[0] \
 
-13. Arithmetic
+13. Arithmetic \
   a. '3' + 2 = '32', because number (2) are mapped to strings. \
   b. '3' - 2 = 1, because subtraction can't be done on strings, so strings are mapped to numbers. \
   c. 3 + null = 3, because null is mapped to number value (0). \
@@ -29,7 +29,7 @@
   g. '3' + undefined = '3undefined', because undefined is mapped to string value 'undefined'. \
   h. '3' - undefined = NaN, because undefined can't be apped to a string value. \
 
-14. Comparison
+14. Comparison \
   a. '2' > 1 = true, because string value is mapped to a number (2). \
   b. '2' < '12' = false, because the strings lexicographical values are compared, and 2 has a less value than the first part of '12' (1). \
   c. 2 == '2' = true, because the string is mapped to a number (2). \
