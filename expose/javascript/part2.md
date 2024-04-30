@@ -40,7 +40,7 @@
 
 16. Code
 
-17. here
+17. This returns [2, 4, 6]. modifyArray takes in an array and a function that is used to modify that array. The code calls doSomething on each element of the array [1, 2, 3]. doSomething then multiplies each element by 2, and modify array updates each element to reflect that.
 
 18. code
 
