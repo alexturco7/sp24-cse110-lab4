@@ -17,7 +17,7 @@
   b. student['Grad Year'] \
   c. student.greeting() \
   d. student['Favorite Teacher'].name \
-  e. student.courseLoad[0] \
+  e. student.courseLoad[0] 
 
 13. Arithmetic \
   a. '3' + 2 = '32', because number (2) are mapped to strings. \
@@ -27,7 +27,7 @@
   e. true + 3 = 4, because true is mapped to number value (1). \
   f. false + null = 0, because both false and null are mapped to number value (0). \
   g. '3' + undefined = '3undefined', because undefined is mapped to string value 'undefined'. \
-  h. '3' - undefined = NaN, because undefined can't be apped to a string value. \
+  h. '3' - undefined = NaN, because undefined can't be apped to a string value. 
 
 14. Comparison \
   a. '2' > 1 = true, because string value is mapped to a number (2). \
@@ -35,8 +35,8 @@
   c. 2 == '2' = true, because the string is mapped to a number (2). \
   d. 2 === '2' = false, because === is strict equality, types are not changed. \
   e. true == 2 = false, because true is mapped to number value (1). \
-  f. true === Boolean(2) = true, because Boolean(2) returns true as it gets a nonzero number. \
-15. === is strict equality comparison, while == is losse equality comparison with the chance of type coercion. \
+  f. true === Boolean(2) = true, because Boolean(2) returns true as it gets a nonzero number. 
+15. === is strict equality comparison, while == is losse equality comparison with the chance of type coercion. 
 
 16. Code
 
